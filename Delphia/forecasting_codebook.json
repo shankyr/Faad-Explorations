@@ -1,0 +1,16 @@
+{
+    "date":
+        "The date that the feature values correspond to. With the exeption of 'sales_growth_yoy' all variables are known as of date. However, date for 'sales_growth_yoy' are used only to align the predictor and response variables, and have a different known as-of date field. 'sales_growth_yoy' are known as of 'filing_date'!",
+    "company_id":
+        "Company identifier.",
+    "sector_id":
+        "Sector/Industry identifier.",
+    "sales_growth_yoy":
+        "Quarterly Sales Growth YoY (current quarter sales / sales of the same quarter 1 year ago).",
+    "consensus_sales_growth_yoy":
+        "Analyst Estimate of Quarterly Sales Growth YoY.",
+    "filing_date":
+        "The date that the financial statements are filed and when the actual sales for the quarter are publicly known.",
+    "period_end_date":
+        "The date at which the current quarter ends for the company."
+}
