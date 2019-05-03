@@ -1,4 +1,4 @@
-# Delphia Time Series Forecasting Assignment
+# Delphia Time Series X Forecasting Assignment
 Your task is to build a ML model to daily forecast Quarterly Sales Growth YoY 
 for various companies better than the consensus estimates.
 
